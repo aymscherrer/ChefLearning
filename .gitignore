@@ -1,6 +1,5 @@
 ### ChefCookbook ###
 .vagrant
-/cookbooks
 
 # Bundler
 bin/*
